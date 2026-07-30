@@ -1,0 +1,11 @@
+Project_ID,Project_Name,Manager,Department,Status,Start_Date,End_Date,Progress,Budget
+P001,ERP Migration,Rahul,IT,Active,2026-07-01,2026-09-30,75,50000
+P002,Mobile Banking App,Sarah,Development,Delayed,2026-06-15,2026-08-20,45,40000
+P003,CRM Upgrade,David,Sales,Completed,2026-05-10,2026-07-25,100,35000
+P004,Cloud Migration,Priya,Infrastructure,Active,2026-07-05,2026-10-15,60,60000
+P005,HR Automation,John,HR,Delayed,2026-06-20,2026-08-30,35,25000
+P006,AI Chatbot,Emma,AI,Active,2026-07-10,2026-09-25,80,45000
+P007,Finance Dashboard,Michael,Finance,Completed,2026-05-01,2026-07-15,100,30000
+P008,Inventory System,Arjun,Operations,Active,2026-07-12,2026-10-01,55,55000
+P009,E-Commerce Website,Ananya,Marketing,Delayed,2026-06-25,2026-09-10,40,70000
+P010,Cybersecurity Audit,Vikram,Security,Active,2026-07-15,2026-09-20,65,38000

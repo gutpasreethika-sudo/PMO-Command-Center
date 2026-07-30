@@ -1,0 +1,11 @@
+Project,Risk,Issue,Assumption,Dependency,Priority
+
+ERP Migration,Budget Overrun,Vendor Delay,Client approval this week,API Team,High
+
+Mobile Banking App,Security Risk,Testing Delay,Resources available,Database Team,Medium
+
+Cloud Migration,Server Downtime,Hardware Delay,Vendor Support,Cloud Team,High
+
+AI Chatbot,Model Accuracy,None,Training data ready,AI Team,Low
+
+HR Automation,Compliance Risk,Missing Documents,HR Approval,Legal Team,Medium
